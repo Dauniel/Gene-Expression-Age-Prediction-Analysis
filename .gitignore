@@ -1,0 +1,14 @@
+# Large GTEx data files — exceed GitHub's 100 MB limit.
+# Download from the GTEx Portal (https://gtexportal.org/home/datasets) — see README.
+GTEx_Analysis_Filtered_TPM_with_pheno.csv
+sample_atttributes.txt
+
+# OS / editor cruft
+.DS_Store
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
